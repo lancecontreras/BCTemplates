@@ -2,9 +2,9 @@
 This template includes client, server and proxy project and a starterkit which is a solution that contains those three projects. These are the basic projects needed to create a brokered component application. 
 
 
-## How to use: 
+## How to use (from Visual Studio Gallery): 
 
-1. Download the Brokered Component Templates from visual studio gallery or update the extension if you have already downloaded it.
+1. Download the Brokered Component Templates from [visual studio gallery](https://marketplace.visualstudio.com/items?itemName=LanceContreras.BrokeredUWPComponentProjectTemplates) or update the extension if you have already downloaded it.
 2. Run Visual Studio 2015 as an Administrator and create a new project.
 3. In the new project dialog, try to search for “Brokered Component Solution”
 4. Type in the Solution name and click ok.
